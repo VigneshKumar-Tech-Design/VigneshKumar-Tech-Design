@@ -1,33 +1,38 @@
-
 <!-- TITLE CARD -->
 
-<h1 align="center">👨‍🚀 Vignesh Kumar Rajendran</h1>
-<p align="center">
-  <i>Junior Aerospace Engineer | UX-Centric Thinker | ML Explorer</i>
-</p>
+<h1 align="center"> Vignesh Kumar Rajendran</h1>
 
-<!-- CONTACTS SECTION -->
+<h4 align="center">
+  <i>Junior Aerospace Engineer &nbsp;|&nbsp; Product Designer &nbsp;
+</h4>
 
-<div align="center">
+<div align="center" style="background: #f8f9fa; border-radius: 1.5rem; padding: 2rem; margin: 1rem auto; max-width: 700px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
 
-<table width="400" style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 16px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-<tr>
-  <td align="center">
-    <h3>🚧 LinkedIn is Under Construction</h3>
-    <p>👷‍♂️ Network expansion in progress...<br>
-    🛠️ Building my digital presence one block at a time.</p>
-    <p><strong>📬 Meanwhile, drop me a message:</strong></p>
-    <a href="mailto:vigneshkumarofficial81@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-Email Me-red?style=for-the-badge&logo=gmail" />
-    </a>
-    <br><br>
-    <img src="https://komarev.com/ghpvc/?username=vigneshkumarofficial&label=Profile+Views&style=flat-square" />
-  </td>
-</tr>
-</table>
+  <h3 align="left" style="font-size: 1.8rem; color: #333; font-weight: 600; margin-bottom: 1.5rem;">
+    🌟 <strong>What Drives Me</strong> 🌟
+  </h3>
+  
+  <p style="font-size: 1.1rem; color: #444; font-style: italic; margin-bottom: 1rem;">
+    Passionate about building the future of technology and space exploration.
+  </p>
+  
+  <p>
+    <img src="https://img.shields.io/badge/AEROSPACE_Enthusiast_-004AAD?style=for-the-badge&labelColor=FFE600&logo=rocket&logoColor=black" 
+         style="border-radius: 1.5rem; margin: 0.5rem;" />
+    <img src="https://img.shields.io/badge/DESIGN_Thinker_-8E05C2?style=for-the-badge&labelColor=FAD0C9&logo=figma&logoColor=black" 
+         style="border-radius: 1.5rem; margin: 0.5rem;" />
+    <img src="https://img.shields.io/badge/ML_Explorer_-3A86FF?style=for-the-badge&labelColor=FFD43B&logo=python&logoColor=black" 
+         style="border-radius: 1.5rem; margin: 0.5rem;" />
+  </p>
 
 </div>
 
+***
+
+<blockquote align="center">
+  <i>“Design is not just what it looks like and feels like. Design is how it works.”</i><br>
+  <span>– Steve Jobs</span>
+</blockquote>
 
 ---
 
@@ -39,11 +44,9 @@
 
 <table>
   <tr>
-    <td width="140"><img src="https://img.icons8.com/doodle/96/satellite.png" width="100"></td>
+    <td width="140"><img "F:\images\57860.gif"></td>
     <td>
-      <b>Hello! I'm Vignesh</b> — an Aerospace Engineer with a passion for building intelligent, efficient, and sustainable space systems.
-      Currently developing regenerative cooling systems for 500 kN FFSCC engines at <b>Spacetaxi Pvt Ltd</b>.  
-      My interest lies in combining <b>AI, UX, and Propulsion</b> to design next-gen aerospace solutions.
+      <b> Hey there! </b> I'm <b><i> Vignesh Kumar </i></b>, a multi-passionate builder working across aerospace engineering, digital product design, and machine learning. I like switching between rocket engine heat flux calculations and designing sleek, user-friendly interfaces—sometimes on the same day. My interest lies in combining <b>AI, UX, and Propulsion</b> to design next-gen aerospace solutions.
     </td>
   </tr>
 </table>
@@ -96,6 +99,28 @@ Conducted production alignment meetings to enhance team performance
 <!-- APPEAL CALL -->
 
 <h2>📬 Let's Collaborate!</h2>
+
+<!-- CONTACTS SECTION -->
+
+<div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; padding: 30px; border: 2px solid #4A90E2; border-radius: 15px; background-color: #EAF2F8; width: fit-content; box-shadow: 0 6px 15px rgba(0, 0, 0, 0.1);">
+  
+  <!-- Header Section with Icon -->
+  <h3 style="font-size: 28px; color: #4A90E2; font-weight: bold; margin-bottom: 15px;">🚧 LinkedIn is Under Maintenance</h3>
+  
+  <!-- Maintenance Description -->
+  <p style="font-size: 18px; color: #5A5A5A; font-style: italic; margin-bottom: 25px;">👷‍♂️ Network expansion in progress... Stay tuned for updates!</p>
+  
+</div>
+
+<div align="center">
+<!-- Message Section with Bold Header and badge link-->
+
+  <p style="font-size: 20px; font-weight: bold; color: #333; display: inline; margin-right: 10px;">📬 Meanwhile, drop me a message:</p>
+  <a href="mailto:vigneshkumarofficial81@gmail.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Gmail-Email%20Me-red?style=for-the-badge&logo=gmail" alt="Email Me" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);" />
+  </a>
+</div>
+
 💡 Looking for roles in:
 🚀 Propulsion Engineering | 🧠 ML for Aerospace | 🎨 UX for Engineers | 📡 Space Systems
 
