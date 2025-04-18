@@ -4,7 +4,7 @@ Hey there! I'm Vignesh Kumar, a multi-passionate builder working across aerospac
 
 Engineer rocket cooling systems (like that sweet 500 kN FFSCC engine) 🌡️🚀
 
-Design intuitive UIs for space-tech platforms (Figma is my playground) 🧩📱
+Design intuitive UX, UIs for mobile applications and online platforms (Figma is my playground) 🧩📱
 
 Build ML models for engineering analysis and optimization (hello, GPR-PSO!) 🧠📈
 
@@ -15,7 +15,7 @@ Figma • Inkscape • PyTorch • Scikit-learn • Power BI
 
 Lift Off – a responsive UI for satellite launch matchmaking
 
-A thesis that combined CFD with machine learning to boost nozzle performance
+My Bachelors thesis that combined CFD with machine learning to find optimal nozzle contour
 
 🎯 I love combining technical precision with human-centered design—because rockets should run hot, but software shouldn’t.
 
