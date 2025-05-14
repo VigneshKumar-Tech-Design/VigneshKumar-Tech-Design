@@ -174,8 +174,9 @@
 
 <h2 style="text-align: left; color: #4A90E2;">🌟 Featured Projects</h2>
 
-<div align="leftr" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; max-width: 800px; margin: auto; padding: 30px; background-color: #f4faff; border-radius: 15px; box-shadow: 0 6px 18px rgba(0,0,0,0.1);">
+<div align="left" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; max-width: 800px; margin: auto; padding: 30px; background-color: #f4faff; border-radius: 15px; box-shadow: 0 6px 18px rgba(0,0,0,0.1);">
   
+  <!-- Project 1 -->
   <div style="display: flex; align-items: center; margin-bottom: 25px;">
     <img src="https://img.icons8.com/color/96/rocket--v1.png" width="60" style="margin-right: 15px;">
     <div>
@@ -185,26 +186,30 @@
       </p>
       <p style="font-size: 16px; color: #555;">
         Streamlined satellite launch partner matching with filters for payload, cost & schedule. End-to-end design delivery.
+        <br>
+        🔗 <a href="https://github.com/VigneshKumar-Tech-Design/Lift-Off-Rocket-Launch-Booking-Platform" target="_blank" style="color: #4A90E2;">View on GitHub</a>
       </p>
     </div>
   </div>
 
+  <!-- Project 3 -->
   <div style="display: flex; align-items: center; margin-bottom: 25px;">
-    <img src="https://img.icons8.com/color/96/artificial-intelligence.png" width="60" style="margin-right: 15px;">
+    <img src="https://img.icons8.com/color/96/delivery.png" width="60" style="margin-right: 15px;">
     <div>
-      <h3 style="font-size: 20px; color: #007BFF; font-weight: bold;">Optimization of Supersonic E-D Nozzle using Machine Machine Learning Approach based on Numerical Modeling</h3>
+      <h3 style="font-size: 20px; color: #007BFF; font-weight: bold;">Liveasy Logistics – UX Case Study</h3>
       <p style="font-size: 16px; color: #333;">
-        <i>ANSYS | MATLAB | Python</i>
+        <i>UX Research | Wireframing | Case Study</i>
       </p>
       <p style="font-size: 16px; color: #555;">
-        Created a ML model to optimize nozzle contours for thrust using CFD-generated datasets.
+        Conducted in-depth UX analysis and designed an intuitive logistics platform to streamline truck booking and management for Indian SMEs.
+        <br>
+        🔗 <a href="https://github.com/VigneshKumar-Tech-Design/Liveasy-Logistics---Case-Study" target="_blank" style="color: #4A90E2;">View on GitHub</a>
       </p>
     </div>
   </div>
 
 </div>
 
----
 
 <!-- CERTIFICATIONS SECTION -->
 
